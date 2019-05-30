@@ -1,6 +1,6 @@
 .content-container{
     margin-top: 150px;
-    margin-left: 750px;
+    margin-left: 900px;
     height: 400px;
     width: 650px;
     font-size: 2rem;
@@ -11,7 +11,7 @@
    
 } 
 
-.decoration {
+.content-container .decoration {
     background-image: url(../../../images/decoration.png);
     background-repeat: no-repeat;
     background-position: center;

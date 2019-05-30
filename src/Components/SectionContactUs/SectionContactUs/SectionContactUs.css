@@ -3,4 +3,26 @@
     background-repeat: no-repeat;
     width: 100%;
     height: 600px;
+    display: flex;
+    align-items: center;
+    background-image: cover;
+}
+.small-container-contactus {
+    width: 35%;
+    height: 450px;
+    margin-left: 1000px;
+    border: red 1px solid;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    text-align: center;
+    padding: 15px;
+}
+.container-contactus-section .decoration {
+    background-image: url(../../../images/decoration.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+    width: 300px;
+    background-size: 50%;
 }

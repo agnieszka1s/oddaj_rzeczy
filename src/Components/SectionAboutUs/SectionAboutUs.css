@@ -15,10 +15,16 @@
 .container-aboutus-section .decoration {
     margin-left: 25%;
     background-size: 50%;
+    background-image: url(../../images/decoration.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+    width: 300px;
 }
 
 .aboutus-image {
     background-image: url(../../images/people_img.jpg);
+    background-repeat: no-repeat;
     flex:1.7;
     height: 550px;
 

@@ -13,6 +13,11 @@
 .container-organizations-section .decoration {
     margin-left: 0%;
     background-size: 50%;
+    background-image: url(../../images/decoration.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+    width: 300px;
 }
 .small-container-organizations{
     /* border: 2px red solid; */
