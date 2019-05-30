@@ -1,0 +1,33 @@
+.content-container{
+    margin-top: 150px;
+    margin-left: 750px;
+    height: 400px;
+    width: 650px;
+    font-size: 2rem;
+    /* border: solid 2px red; */
+    text-align: center;
+}
+.content-container span {
+   
+} 
+
+.decoration {
+    background-image: url(../../../images/decoration.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+    width: 300px;
+    margin-left: 175px;
+}
+
+.btn-content {
+        background-color: transparent;
+        height: 100px;
+        width: 250px;
+        margin: 10px;
+        font-size: 30px;
+        border: 1px solid #333336;
+        margin-top: 85px;
+        color: #333336;
+        font-weight: 0;
+}

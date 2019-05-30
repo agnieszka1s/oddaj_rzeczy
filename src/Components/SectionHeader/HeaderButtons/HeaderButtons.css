@@ -1,0 +1,20 @@
+.header-buttons-container {
+    margin-left: 500px;
+    height: 75px;
+    width: 800px;
+    /* border: #333336 1px solid; */
+}
+
+.btn-2 {
+        color: #333336;
+        background-color: transparent;
+        height: 50px;
+        width: 150px;
+        margin: 5px;     
+        display: inline;
+        margin-top: 12px;
+}
+
+.btn-2:hover {
+    border: #333336 1px solid;
+  }

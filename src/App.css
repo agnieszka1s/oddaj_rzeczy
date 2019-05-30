@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+   border: 0;
+  /* line-height: 1.4em; */
+  /* vertical-align: baseline; */
+  text-decoration: none;
+  outline: 0;
+}
+
+body {
+  /* margin: 10px auto; */
+  font-family: 'Open Sans', sans-serif;
+  color: #333336;
+  font-weight:100;
+}
+
+.App-header {
+  text-align: right;
+  background: white;
+  background-image: url(images/header_start__radio_img.jpg);
+  background-image: cover;
+  background-repeat: no-repeat;
+  background-size: 75%;
+  height: 750px;
+  width: 100%;
+  /* border: solid red 2px; */
+}
