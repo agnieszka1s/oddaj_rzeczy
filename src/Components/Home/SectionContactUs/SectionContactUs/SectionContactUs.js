@@ -7,7 +7,8 @@ class SectionContactUs extends Component {
         <div className="container-contactus-section"> 
           <div className="small-container-contactus">
             <span>Skontaktuj się z nami</span>
-            <div class="decoration"></div>
+            <div className="decoration"></div>
+            
           </div>     
         </div>
       );
